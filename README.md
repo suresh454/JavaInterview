@@ -11,6 +11,6 @@ Topics Covered
  - Polymorphism
  - Abstraction
  - Association
- - Compostion
+ - Composition
  - Aggregation
  - Equals and Hashcode methods
